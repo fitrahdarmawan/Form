@@ -9,7 +9,7 @@ Last Name<br>
 Gender<br>
 <input type="radio" name="gender" value="male" checked> Male<br>
   <input type="radio" name="gender" value="female"> Female<br>
-  Adress<br>
+  Address<br>
   <textarea name="message" rows="5" cols="30"></textarea><br>
   Activity<br>
   <select name="activity">
