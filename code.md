@@ -1,6 +1,4 @@
 # Please fill all of field in this Form
-<html>
-  <body>
 <form>
 First Name<br>
 <input type="text" name="firstname">
@@ -13,5 +11,3 @@ Last Name<br>
   <input type="submit" value="Submit">
  </form>
 <p>Data Anda akan kami jaga kerahasiaannya</p>
-  </body>
-  </html>
