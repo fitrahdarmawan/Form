@@ -27,4 +27,4 @@ Gender<br>
   <input type="checkbox" name="vehicle1" value="Yes"> Yes, I am sure<br>
   <input type="submit" value="Submit"><br>
    </form>
-<p>We will keep your data stays safe</p>
+<p>***We will keep your data stays safe</p>
