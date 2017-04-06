@@ -16,10 +16,10 @@ Gender<br>
     <option value="worker">worker</option>
     <option value="bussinessman">bussinessman</option>
     <option value="other">other</option>
-    <br>
+      </select>
+      <br>
     Affiliation<br>
     <input type="text" name="Affiliation">
-  </select>
   <br><br>
   <input type="submit" value="Submit">
  </form>
