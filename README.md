@@ -9,7 +9,7 @@ Last Name<br>
 Gender<br>
 <input type="radio" name="gender" value="male" checked> Male<br>
   <input type="radio" name="gender" value="female"> Female<br>
-  Activity
+  Activity<br>
   <select name="activity">
     <option value="student">student</option>
     <option value="freelance">freelance</option>
