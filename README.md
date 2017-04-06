@@ -23,6 +23,8 @@ Gender<br>
     Affiliation<br>
     <input type="text" name="Affiliation">
   <br><br>
-  <input type="submit" value="Submit">
- </form>
-<p>Data Anda akan kami jaga kerahasiaannya</p>
+  Are You Sure that Your Data is correct?<br>
+  <input type="checkbox" name="vehicle1" value="Yes"> Yes, I am sure<br>
+  <input type="submit" value="Submit"><br>
+   </form>
+<p></p>
