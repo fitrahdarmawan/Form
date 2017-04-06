@@ -1,4 +1,4 @@
-# Please fill all of field in this Form
+# Please fill all of the field in this Form
 <form>
 First Name<br>
 <input type="text" name="firstname">
@@ -27,4 +27,4 @@ Gender<br>
   <input type="checkbox" name="vehicle1" value="Yes"> Yes, I am sure<br>
   <input type="submit" value="Submit"><br>
    </form>
-<p></p>
+<p>We will keep your data stays safe</p>
